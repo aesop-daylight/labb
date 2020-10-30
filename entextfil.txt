@@ -1,1 +1,18 @@
-Hejsan hoppsan
+commit 115fa2ee40543b8c01f01fcac891c651b5e1cf17
+Author: aesop_daylight <niclas.jingryd@iths.se>
+Date:   Fri Oct 30 17:35:16 2020 +0100
+
+    Skapat ny branch, lägger med en textfil i ny branchen.
+
+commit 016fb3488259c1687bfbed4ea69ab06df6ffa3d5
+Author: aesop_daylight <niclas.jingryd@iths.se>
+Date:   Fri Oct 30 17:21:28 2020 +0100
+
+    Första commiten. Lägger till följande till att börja med:
+    On branch huvudbranch
+    
+    Initial commit
+    
+     Changes to be committed:
+            new file:   .gitignore
+            new file:   readme.md
