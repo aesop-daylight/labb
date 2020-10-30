@@ -1,3 +1,9 @@
+commit 8dac7fdadd12dad2a896c9c40330cca7b23621b6
+Author: aesop_daylight <niclas.jingryd@iths.se>
+Date:   Fri Oct 30 17:58:48 2020 +0100
+
+    Har lagt till en fil i .gitignore, har lagt till logtext i entextfil.txt samt kladdat i readme.md-filen
+
 commit 115fa2ee40543b8c01f01fcac891c651b5e1cf17
 Author: aesop_daylight <niclas.jingryd@iths.se>
 Date:   Fri Oct 30 17:35:16 2020 +0100
